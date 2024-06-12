@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/BabakhalilM/Jsonserver#readme",
   "dependencies": {
-    "json-server": "*"
+    "json-server": "^0.16.3"
   }
 }
