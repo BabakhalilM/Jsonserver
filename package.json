@@ -1,0 +1,23 @@
+{
+  "name": "Jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabakhalilM/Jsonserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabakhalilM/Jsonserver/issues"
+  },
+  "homepage": "https://github.com/BabakhalilM/Jsonserver#readme",
+  "dependencies": {
+    "jsonserver": "^0.1.6"
+  }
+}
